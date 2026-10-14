@@ -16,12 +16,31 @@
 
 ## 📖 出版专著与代表性论文 (Authored Book & Publications)
 
-- **📘 英文独著（Springer Nature / Apress, 2026）**：  
-  **[General World Models: The Physics of Generative Video](https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview)**  
-  *Author: **Zhiping Xu*** · Publisher: **Apress (Springer Nature)** · ISBN: `979-8-8688-3143-0` (Print) / `979-8-8688-3144-7` (eBook) · DOI: [`10.1007/979-8-8688-3144-7`](https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview)
-- **📄 学术论文（ICDM 2026）**：  
-  **[DataFlash: A Secure, Intent-Driven Visual Workflow Framework for Autonomous Data Mining and Analytics](https://github.com/bennix/DataFlash)**  
-  *Minyang Han and Zhiping Xu* · [Camera-Ready PDF](https://github.com/bennix/DataFlash/blob/master/paper/DataFlash_S30229_CameraReady.pdf)
+<table>
+  <tr>
+    <td width="190" align="center" valign="top">
+      <a href="https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview">
+        <img src="assets/general-world-models-cover.png" width="175" alt="General World Models: The Physics of Generative Video (Apress)" />
+      </a>
+    </td>
+    <td valign="top">
+      <h3>📘 <a href="https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview">General World Models: The Physics of Generative Video</a></h3>
+      <p>
+        <strong>Author:</strong> Zhiping XU (徐志平，独立作者)<br/>
+        <strong>Publisher:</strong> Apress (Springer Nature, 2026)<br/>
+        <strong>Print ISBN:</strong> <code>979-8-8688-3143-0</code> · <strong>eBook ISBN:</strong> <code>979-8-8688-3144-7</code><br/>
+        <strong>DOI:</strong> <a href="https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview"><code>10.1007/979-8-8688-3144-7</code></a>
+      </p>
+      <p>
+        系统阐述生成式视频与通用世界模型（General World Models）背后的物理规律、时空一致性、镜头运动控制、视觉叙事与多模态提示工程体系。
+      </p>
+      <hr/>
+      <p>
+        📄 <strong>ICDM 2026 论文：</strong><a href="https://github.com/bennix/DataFlash"><em>DataFlash: A Secure, Intent-Driven Visual Workflow Framework for Autonomous Data Mining and Analytics</em></a> — Minyang Han and Zhiping Xu · <a href="https://github.com/bennix/DataFlash/blob/master/paper/DataFlash_S30229_CameraReady.pdf">Camera-Ready PDF</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
