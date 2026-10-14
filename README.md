@@ -4,12 +4,24 @@
 *Faculty at College of Computer Science and Artificial Intelligence, Fudan University*
 
 [![Portfolio & Portal](https://img.shields.io/badge/Portal-bennix.github.io-c6a56a?style=flat-square)](https://bennix.github.io/)
+[![Springer Apress Book](https://img.shields.io/badge/Book%20(Springer%20%2F%20Apress%202026)-General%20World%20Models-b45309?style=flat-square)](https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview)
 [![ZenCode Flagship](https://img.shields.io/badge/ZenCode-macOS%20Flagship%20IDE%20%26%20Agent-161410?style=flat-square)](https://bennix.github.io/ZenMuxDev/)
 [![ZenOffice Suite](https://img.shields.io/badge/ZenOffice-Open--Source%20AI%20Office-2b579a?style=flat-square)](https://github.com/bennix/GenZenMuxAIOffice)
 [![Astra AI Browser](https://img.shields.io/badge/Astra-Native%20macOS%20AI%20Browser-0f766e?style=flat-square)](https://bennix.github.io/AstraAIBrowser/)
 
-> **Human Commander & Verifier × Multi-Agent Engineering**  
-> 以一线教学痛点与科研需求定义架构边界，通过多模型智能体协同研发，持续交付经 Apple 公证与多平台打包验证的生产级开源软件、互动式教学系统与科研工具。
+> **Author · Educator · Human Commander & Verifier × Multi-Agent Engineering**  
+> 英文学术/技术专著 [***General World Models: The Physics of Generative Video***](https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview)（Apress / Springer Nature, 2026）独立作者。以一线教学痛点与科研需求定义架构边界，通过多模型智能体协同研发，持续交付经 Apple 公证与多平台打包验证的生产级开源软件、互动式教学系统与科研工具。
+
+---
+
+## 📖 出版专著与代表性论文 (Authored Book & Publications)
+
+- **📘 英文独著（Springer Nature / Apress, 2026）**：  
+  **[General World Models: The Physics of Generative Video](https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview)**  
+  *Author: **Zhiping Xu*** · Publisher: **Apress (Springer Nature)** · ISBN: `979-8-8688-3143-0` (Print) / `979-8-8688-3144-7` (eBook) · DOI: [`10.1007/979-8-8688-3144-7`](https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview)
+- **📄 学术论文（ICDM 2026）**：  
+  **[DataFlash: A Secure, Intent-Driven Visual Workflow Framework for Autonomous Data Mining and Analytics](https://github.com/bennix/DataFlash)**  
+  *Minyang Han and Zhiping Xu* · [Camera-Ready PDF](https://github.com/bennix/DataFlash/blob/master/paper/DataFlash_S30229_CameraReady.pdf)
 
 ---
 
