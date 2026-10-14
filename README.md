@@ -6,7 +6,7 @@
 [![Portfolio & Portal](https://img.shields.io/badge/Portal-bennix.github.io-c6a56a?style=flat-square)](https://bennix.github.io/)
 [![Springer Apress Book](https://img.shields.io/badge/Book%20(Springer%20%2F%20Apress%202026)-General%20World%20Models-b45309?style=flat-square)](https://link.springer.com/book/10.1007/979-8-8688-3144-7#overview)
 [![ZenCode Flagship](https://img.shields.io/badge/ZenCode-macOS%20Flagship%20IDE%20%26%20Agent-161410?style=flat-square)](https://bennix.github.io/ZenMuxDev/)
-[![ZenOffice Suite](https://img.shields.io/badge/ZenOffice-Open--Source%20AI%20Office-2b579a?style=flat-square)](https://github.com/bennix/GenZenMuxAIOffice)
+[![ZenOffice Suite](https://img.shields.io/badge/ZenOffice-Open--Source%20AI%20Office-2b579a?style=flat-square)](https://bennix.github.io/GenZenMuxAIOffice/)
 [![Astra AI Browser](https://img.shields.io/badge/Astra-Native%20macOS%20AI%20Browser-0f766e?style=flat-square)](https://bennix.github.io/AstraAIBrowser/)
 
 > **Author · Educator · Human Commander & Verifier × Multi-Agent Engineering**  
@@ -49,7 +49,7 @@
 | 项目 | 平台 | 核心能力 | 入口 |
 | :--- | :--- | :--- | :--- |
 | **[ZenCode](https://github.com/bennix/ZCode)** | **macOS (Apple Silicon 主推)** · Windows · Linux | **AI 编程工作台、创作工作室与原生桌面控制**：内置源码 IDE、多模型调度、微信配对远程续接任务、原生 macOS Computer Use 及图像/视频/幻灯片创作 | [产品官网](https://bennix.github.io/ZenMuxDev/) · [下载 v3.14.32](https://github.com/bennix/ZCode/releases/latest) |
-| **[ZenOffice](https://github.com/bennix/GenZenMuxAIOffice)** | macOS · Windows · Ubuntu DEB · Linux RPM | **全功能开源 AI Office 套件**：原生兼容 `.docx` / `.xlsx` / `.pptx` / `.pdf` / `.md`；内置 Science/Nature/Cell/IEEE 3+1 审稿委员会、学术文献检索与 GB/T 7714 引文、试卷手写擦除、公式 OCR 及微信 PDF 审稿联动 | [仓库主页](https://github.com/bennix/GenZenMuxAIOffice) · [下载 v0.6.101](https://github.com/bennix/GenZenMuxAIOffice/releases/latest) |
+| **[ZenOffice](https://github.com/bennix/GenZenMuxAIOffice)** | macOS · Windows · Ubuntu DEB · Linux RPM | **全功能开源 AI Office 套件**：原生兼容 `.docx` / `.xlsx` / `.pptx` / `.pdf` / `.md`；内置 Science/Nature/Cell/IEEE 3+1 审稿委员会、学术文献检索与 GB/T 7714 引文、试卷手写擦除、公式 OCR 及微信 PDF 审稿联动 | [产品官网](https://bennix.github.io/GenZenMuxAIOffice/) · [下载 v0.6.101](https://github.com/bennix/GenZenMuxAIOffice/releases/latest) |
 | **[Astra AI Browser](https://github.com/bennix/AstraAIBrowser)** | macOS (Apple Silicon 原生) | **macOS 原生 AI 浏览器**：AppKit + Chromium (CEF 151) 双引擎、ZenMux 侧边栏与页面视觉操作 Agent、双语沉浸式翻译、划词生词本、YouTube 8× 广告加速与章节总结、X 书签归档与垃圾号护盾、反指纹隐私保护 | [产品官网](https://bennix.github.io/AstraAIBrowser/) · [下载 DMG](https://github.com/bennix/AstraAIBrowser/releases/latest) |
 | **[OpenCut AI](https://github.com/bennix/OpenCutAI)** | macOS · Windows · Linux | **跨平台开源 AI 视频剪辑器**：支持屏幕录制、AI 分镜脚本、时间轴实时字幕编辑、转场特效与无损导出 | [产品官网](https://bennix.github.io/OpenCutAI/) · [下载安装包](https://github.com/bennix/OpenCutAI/releases/latest) |
 | **[AIComposer](https://github.com/bennix/AIComposer)** | macOS (Apple Silicon) | **macOS 原生图层式 AI 图像编辑器**：在 Photoshop 风格图层合成工作流中集成 ZenMux 文生图与选区重绘 | [产品官网](https://bennix.github.io/AIComposer/) · [下载 DMG](https://github.com/bennix/AIComposer/releases/latest) |
