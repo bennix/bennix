@@ -61,6 +61,7 @@
 
 | 项目 | 学科 / 领域 | 简介 | 体验 / 下载 |
 | :--- | :--- | :--- | :--- |
+| **[Python Visual Learning · Python 互动教学](https://github.com/bennix/PythonVisualLearning)** | Python 互动可视化 | **10 个可离线打开的实验室**，覆盖变量、容器、函数、流程控制、文件读写与 pandas / Matplotlib 预设示例；浏览器即开即学 | [在线学习](https://bennix.github.io/PythonVisualLearning/) · [下载 ZIP](https://github.com/bennix/PythonVisualLearning/archive/refs/heads/main.zip) |
 | **[Python 符文纪事 (PythonRPGGame)](https://github.com/bennix/PythonRPGGame)** | Python 程序设计 | 将 16 周大学 Python 课程转化为 **32 关像素风 RPG 冒险**（160 道关卡试炼 + 覆盖 Pandas/API/大模型/正则的法术手册） | [游戏官网](https://bennix.github.io/PythonRPGGame/) · [下载](https://github.com/bennix/PythonRPGGame/releases/latest) |
 | **[FlowPy](https://github.com/bennix/FlowPy)** | Python 可视化节点编程 | 通用 Python 本地节点编辑与运行环境，配套 **26 个从空画布开始的中文视频教程** | [在线介绍](https://bennix.github.io/FlowPy/) |
 | **[AiTeaching · AI 教学助手](https://github.com/bennix/AiTeaching)** | 高校 / 中学局域网教学 | 导入 1–40 周教案，支持**数理化双模型独立解法交叉验算入库**、LaTeX 渲染、局域网课堂签到与练习批改 | [产品官网](https://bennix.github.io/AiTeaching/) · [下载](https://github.com/bennix/AiTeaching/releases/latest) |
@@ -77,6 +78,7 @@
 
 ## 🔬 科研计算、仿真与数字人文 (Research, Simulation & Digital Art)
 
+- **[AIScience · 科研工作台](https://github.com/bennix/AIScience)**：Electron AI 科研桌面工作台，串联论文检索与可删除的 RAG 证据库、多文件 CSV / Excel 分析、Python / Jupyter 实验环境、多语种 LaTeX / PDF 报告，以及 AI 数学辅助与 Lean 候选证明验证 · [产品官网](https://bennix.github.io/AIScience/) · [下载最新版](https://github.com/bennix/AIScience/releases/latest)。
 - **[DataFlash](https://github.com/bennix/DataFlash)** *(ICDM 2026)*：类 ComfyUI 的意图驱动安全可视化数据挖掘与自动化分析工作流框架（含 [Camera-Ready 论文 PDF](https://github.com/bennix/DataFlash/blob/master/paper/DataFlash_S30229_CameraReady.pdf)）。
 - **[FruitFlyCityDrive](https://github.com/bennix/FruitFlyCityDrive)**：将果蝇全脑脉冲神经网络 (Brian2) 接入上海中心城区三维路网（100 个行人脑 + 1,000 个车辆脑）的神经控制交通仿真实验 · [在线 3D 演示](https://bennix.github.io/FruitFlyCityDrive/)。
 - **[FudanCampus](https://github.com/bennix/FudanCampus)**：复旦大学主校区、东区与北区三维校园场景复原与 Blender / WebGL 地标可视化 · [在线预览](https://fudan-campus.vercel.app)。
