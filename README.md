@@ -81,7 +81,7 @@
 - **[AIScience · 科研工作台](https://github.com/bennix/AIScience)**：Electron AI 科研桌面工作台，串联论文检索与可删除的 RAG 证据库、多文件 CSV / Excel 分析、Python / Jupyter 实验环境、多语种 LaTeX / PDF 报告，以及 AI 数学辅助与 Lean 候选证明验证 · [产品官网](https://bennix.github.io/AIScience/) · [下载最新版](https://github.com/bennix/AIScience/releases/latest)。
 - **[DataFlash](https://github.com/bennix/DataFlash)** *(ICDM 2026)*：类 ComfyUI 的意图驱动安全可视化数据挖掘与自动化分析工作流框架（含 [Camera-Ready 论文 PDF](https://github.com/bennix/DataFlash/blob/master/paper/DataFlash_S30229_CameraReady.pdf)）。
 - **[FruitFlyCityDrive](https://github.com/bennix/FruitFlyCityDrive)**：将果蝇全脑脉冲神经网络 (Brian2) 接入上海中心城区三维路网（100 个行人脑 + 1,000 个车辆脑）的神经控制交通仿真实验 · [在线 3D 演示](https://bennix.github.io/FruitFlyCityDrive/)。
-- **[FudanCampus](https://github.com/bennix/FudanCampus)**：复旦大学主校区、东区与北区三维校园场景复原与 Blender / WebGL 地标可视化 · [在线预览](https://fudan-campus.vercel.app)。
+- **[FudanCampus](https://github.com/bennix/FudanCampus)**：复旦大学主校区、东区与北区三维校园场景复原与 Blender / WebGL 地标可视化 · [在线预览](https://bennix.github.io/FudanCampus/)。
 - **[MiroFish (Apple Silicon Edition)](https://github.com/bennix/mirrorfish_appleSilicon)**：针对 Apple Silicon (M1–M4) 与 MLX 深度优化的群体智能引擎（本地推理提速约 11×）。
 - **[HyperRAGAudit](https://github.com/bennix/HyperRAGAudit)**：结合 Vision LLM 边界框 OCR、NetworkX 知识图谱与 LangGraph ReAct Agent 的 PDF 原文高亮溯源审计系统。
 - **[Preview · 最后一个问题 (THE LAST QUESTION)](https://github.com/bennix/Preview)**：完全使用 JavaScript 与数学公式绘制的 60 秒致敬阿西莫夫宇宙哲思短片 · [在线展映](https://bennix.github.io/Preview/)。
